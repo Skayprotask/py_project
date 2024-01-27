@@ -8,8 +8,8 @@ num2 = 20
 
 print(add_numbers(num1, num2))
 
-def dell_numbers(x, y):
-    sum = x - y
+def dell_numbers(x1, y1):
+    sum = x1 - y1
     return sum
 
 
