@@ -1,5 +1,9 @@
-num1 = 5
-num2 = 8
-sum = num1 + num2
-sum1 = num1 - num2
-print(sum, sum1)
+def add_numbers(x, y):
+    sum = x + y
+    return sum
+
+
+num1 = 15
+num2 = 20
+
+print(add_numbers(num1, num2))
