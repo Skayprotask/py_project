@@ -1,3 +1,3 @@
 import funcs
-def add_numbers(x, y):
-    print(add_numbers)
+from funcs import dell_numbers
+print(dell_numbers(3,5))
